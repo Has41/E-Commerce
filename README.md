@@ -17,52 +17,46 @@ You can see the live demo at: https://e-commerce-website-client-woad.vercel.app
 ## Screenshots
 
 ### Homepage
-![image](https://github.com/user-attachments/assets/4111c014-40e1-48d0-baea-9e766302fc90)
 
-![image](https://github.com/user-attachments/assets/d13df544-c949-4d71-8a45-2255de16fea5)
+![Screenshot 2024-07-29 161455](https://github.com/user-attachments/assets/14de5a1a-b4c0-4c6e-a8be-d677bbb132d1)
 
-![image](https://github.com/user-attachments/assets/3b633ce6-41f5-4632-af79-c616b40c8f9b)
+![Screenshot 2024-07-29 161531](https://github.com/user-attachments/assets/31b6871b-bc2b-4f67-b8ea-ed1ba7182352)
 
-![image](https://github.com/user-attachments/assets/2efddeb6-0c00-428d-9a6f-a71298f09da3)
+![Screenshot 2024-07-29 161551](https://github.com/user-attachments/assets/731bc13d-5d27-4638-b3c8-b8e2eea5dc03)
 
-![image](https://github.com/user-attachments/assets/27adbe19-063d-44c7-8579-45fa50fc466f)
+![Screenshot 2024-07-29 161617](https://github.com/user-attachments/assets/433bdbb8-3ee3-490a-9aba-9da69cbec638)
+
 
 ### All Product Page
-![image](https://github.com/user-attachments/assets/7718f363-10a3-461d-8356-95859621ea99)
 
-![image](https://github.com/user-attachments/assets/3f317365-e2fa-4950-85c0-5315e5ee89b3)
+![Screenshot 2024-07-29 161637](https://github.com/user-attachments/assets/18cecc81-9508-4bb6-bc0b-d856f3984c45)
 
-![image](https://github.com/user-attachments/assets/a0feb53b-24ec-4272-8c21-854409d87f0d)
+![Screenshot 2024-07-29 161654](https://github.com/user-attachments/assets/41a0335b-f43e-4532-bd38-9684a013c0c0)
+
 
 ### About Us Page
-![image](https://github.com/user-attachments/assets/3b739472-e7b7-4874-afe4-0448ad086617)
+![Screenshot 2024-07-29 161710](https://github.com/user-attachments/assets/4d90f3bc-001a-4ff9-878e-f1d93ecc162c)
 
-![image](https://github.com/user-attachments/assets/bc65c527-daf4-4425-a3c6-8faeb9680186)
-
-![image](https://github.com/user-attachments/assets/4a7502c1-87f2-4d98-987c-f95af3db13f8)
+![Screenshot 2024-07-29 161735](https://github.com/user-attachments/assets/52930f65-0607-4d39-9651-b8d38bde9b02)
 
 ### Contact Us Page
-![image](https://github.com/user-attachments/assets/4a915c5a-df15-4000-a252-f00a2eb78b20)
+![Screenshot 2024-07-29 161754](https://github.com/user-attachments/assets/a3cd5c55-e231-4e11-837f-45ab66e14f93)
 
-![image](https://github.com/user-attachments/assets/f27b4b4a-f801-4500-a81b-aac2b8f26aac)
-
-![image](https://github.com/user-attachments/assets/965e7536-ac4a-47e3-ac40-56d10afbab15)
-
-### Product Page
-![image](https://github.com/user-attachments/assets/fdb15726-9436-47e2-a01e-37d6519fcd38)
-
-![image](https://github.com/user-attachments/assets/87df4e10-def2-4463-bc59-0746e6e815de)
+![Screenshot 2024-07-29 161815](https://github.com/user-attachments/assets/46b215ac-ece0-4679-83f5-253a06b43a7f)
 
 ### Shopping Cart
-![image](https://github.com/user-attachments/assets/d207cfb0-ede5-40cc-88e0-3448f8fbcef9)
+![Screenshot 2024-07-29 161857](https://github.com/user-attachments/assets/d3717207-dc00-4a2d-b78e-8a2dd2593591)
 
-![image](https://github.com/user-attachments/assets/12e5c527-fcfa-488c-9723-80174379c54f)
+![Screenshot 2024-07-29 162015](https://github.com/user-attachments/assets/fcd51cd4-7c5c-45c6-a285-d1e5f2cfa00c)
+
+### Cart Page
+![Screenshot 2024-07-29 162155](https://github.com/user-attachments/assets/23b82f93-338a-485a-9200-09262b690aa0)
 
 ### Login Page
-![image](https://github.com/user-attachments/assets/11e51404-810d-4a3a-9f81-58fe47d55207)
+![Screenshot 2024-07-29 161916](https://github.com/user-attachments/assets/6b73a45b-e8fc-4f12-9c1c-c470d9fed7fc)
 
 ### Register Page
-![image](https://github.com/user-attachments/assets/b72128e1-6cf3-45ad-81d0-81e439832656)
+![Screenshot 2024-07-29 161936](https://github.com/user-attachments/assets/e09686fa-2b5c-4c5c-bff3-436cf5be8d50)
 
 ## Technologies Used
 - Frontend: React, React Router
